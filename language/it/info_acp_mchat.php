@@ -115,10 +115,10 @@ $lang = array_merge($lang, array(
 	'MCHAT_STATS'					=> 'Chat Whois',
 	'MCHAT_STATS_INDEX'				=> 'Statistiche Index',
 	'MCHAT_STATS_INDEX_EXPLAIN'		=> 'Mostra chi sta chattando nella sezione statistiche del forum',
-	'MCHAT_MESSAGE_TOP'				=> 'Keep message on Bottom / Top',
-	'MCHAT_MESSAGE_TOP_EXPLAIN'		=> 'This will post the message bottom or top in the chat message area.',
-	'MCHAT_BOTTOM'					=> 'Bottom',
-	'MCHAT_TOP'						=> 'Top',
+	'MCHAT_MESSAGE_TOP'				=> 'Visualizza Messaggi Sotto / Sopra',
+	'MCHAT_MESSAGE_TOP_EXPLAIN'		=> 'Questa opzione visualizzerà i messaggi in area chat partendo da Sotto o Sopra.',
+	'MCHAT_BOTTOM'					=> 'Sotto',
+	'MCHAT_TOP'						=> 'Sopra',
 	'MCHAT_MESSAGES'				=> 'Opzioni Messaggi',
 	'MCHAT_PAUSE_ON_INPUT'			=> 'Pausa in ingresso',
 	'MCHAT_PAUSE_ON_INPUT_EXPLAIN'	=> 'Se impostato Sì, allora la chat non verrà aggiornata automaticamente se un utente inserisce un messaggio in area di immissione',
@@ -154,7 +154,7 @@ $lang = array_merge($lang, array(
 
 		// User perms
 	'ACL_U_MCHAT_USE'			=> 'Puoi usare mchat',
-	'ACL_U_MCHAT_VIEW'			=> 'Puoi vedere mChat mchat',
+	'ACL_U_MCHAT_VIEW'			=> 'Puoi vedere mchat',
 	'ACL_U_MCHAT_EDIT'			=> 'Puoi modificare i messaggi in mChat',
 	'ACL_U_MCHAT_DELETE'		=> 'Puoi cancellare i messaggi in mchat',
 	'ACL_U_MCHAT_IP'			=> 'Puoi visualizzare indirizzi IP in mChat',
